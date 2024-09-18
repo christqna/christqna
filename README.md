@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Christina!
 
+ABOUT ME
+  🔭 I'm currently a third year ECE student at the University of Toronto
+  🌱 I'm interested in firmware/embedded systems and computer architecutre
 
-- 🔭 Currently a third year ECE student at the University of Toronto
-- 🌱 I'm interested in firmware/embedded systems and computer architecutre
-
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+FUN FACTS
+  ⚡ I love playing video games
